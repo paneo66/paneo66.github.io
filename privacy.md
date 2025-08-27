@@ -31,14 +31,14 @@ Calendar Cop values your privacy. This policy explains what information we colle
 
 ## Your Rights
 - You may **unsubscribe** at any time by clicking the unsubscribe link in our emails or by contacting us directly.
-- You may **request deletion** of your data by emailing us at **hello@calendarcop.app**.
+- You may **request deletion** of your data by emailing us at **soloclan@proton.me**.
 
 ---
 
 ## Contact
 If you have questions about this Privacy Policy or your data, contact us at:
 
-**Email:** hello@calendarcop.app
+**Email:** soloclan@proton.me
 
 ---
 
