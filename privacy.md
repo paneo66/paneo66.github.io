@@ -5,7 +5,7 @@ _Last updated: August 2025_
 Calendar Cop values your privacy. This policy explains what information we collect, how we use it, and your rights.
 
 ---
-
+  
 ## Information We Collect
 - **Email address** — when you join our waitlist.
 
