@@ -5,7 +5,7 @@ description: "Youth-activity conflict solver: paste calendars, see conflicts, fi
 # If this is a *project site* (most likely):
 # https://YOUR-USERNAME.github.io/calendar-cop/
 url: "https://paneo66.github.io"
-baseurl: "/calendar-cop"      # ← keep this line for project pages
+# baseurl: "/calendar-cop"      # ← keep this line for project pages
 
 # If it's a *user/organization site* (https://YOUR-USERNAME.github.io):
 # url: "https://YOUR-USERNAME.github.io"
