@@ -79,7 +79,7 @@
         </div>
         <div class="mt-4 rounded-xl bg-slate-900/60 p-4 text-sm text-slate-300">
           <p class="font-semibold">Example explanation</p>
-          <p class="mt-1">Emma’s practice (5:30–6:30 @ West Field) overlaps with Jake’s game (6:00–7:00 @ East Rink). Drive time ~22 min. You’re short by 12 min.</p>
+          <p class="mt-1">Molly’s practice (5:30–6:30 @ West Field) overlaps with Tom’s game (6:00–7:00 @ East Rink). Drive time ~22 min. You’re short by 12 min.</p>
           <div class="mt-3 flex flex-wrap gap-2">
             <button class="rounded-lg bg-white/10 px-3 py-1.5 hover:bg-white/15">Ask for carpool</button>
             <button class="rounded-lg bg-white/10 px-3 py-1.5 hover:bg-white/15">Coach heads-up</button>
